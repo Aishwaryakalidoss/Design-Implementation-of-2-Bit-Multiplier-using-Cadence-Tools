@@ -1,14 +1,18 @@
-# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
-Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
 
-Aim:
+## Ex No: 06   Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
+
+## Aim:
+
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
 
-Tools Required:
+## Tools Required:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
 
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
+## S C H E M A T I C S I M U L A T I O N 
+
+PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
@@ -48,7 +52,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![Screenshot 2024-11-17 230415](https://github.com/user-attachments/assets/7ae5909d-1bcc-4fce-88ef-df26fd2b453d)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +69,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+ ![Screenshot 2024-11-17 230434](https://github.com/user-attachments/assets/a7db2a58-dffd-427a-aa66-484938f79cc2)
 
 
 
@@ -80,7 +84,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![Screenshot 2024-11-17 231102](https://github.com/user-attachments/assets/f14693f1-def6-45ce-a333-b1de038dafaa)
 
  
 
@@ -102,9 +106,10 @@ For Transient Analysis Settings and Output
 ![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![9916c4d3-88f5-4a52-b80a-c837f44631c8](https://github.com/user-attachments/assets/1886f8f3-1b19-4a49-bf10-a305ca7f58c6)
 
   
 
-Results:
+## Results:
+
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
